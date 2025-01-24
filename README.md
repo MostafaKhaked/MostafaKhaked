@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Mostafa!
 
-<!--
-**MostafaKhaked/MostafaKhaked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate CS student with a love for solving complex problems and building impactful solutions. I enjoy exploring new technologies and continuously expanding my skill set.
 
-Here are some ideas to get you started:
+### 🌱 Current Focus
+- 🔭 Working on learning Cybersecurity
+- 🌱 Learning C++ and Cybersecurity
+- 🤝 Open to collaborating on exciting and innovative projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Skills
+- **Programming Languages**: C++
+- **Frameworks & Libraries**: working on it :)
+- **Tools & Platforms**: working on it :)
+
+### 🌟 Highlights
+- 🏆 Achievements: working on it :)
+- 🧑‍💻 Open Source Contributor: working on it :)
+- 
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mostafa-khaled-1985b432b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+*“It always seems impossible until it’s done”*
+
